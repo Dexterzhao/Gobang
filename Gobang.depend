@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1378452981 source:f:\assignment experiment\gobang\gobang\main.c
+	"gobang_lib.h"
+
+1378460821 f:\assignment experiment\gobang\gobang\gobang_lib.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1378452241 source:f:\assignment experiment\gobang\gobang\chess.c
+	"gobang_lib.h"
+
+1377085722 source:f:\assignment experiment\gobang\gobang\debugtool.c
+	"gobang_lib.h"
+
+1378466285 source:f:\assignment experiment\gobang\gobang\tools.c
+	"gobang_lib.h"
+
